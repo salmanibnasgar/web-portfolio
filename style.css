@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    color: #000;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.name-height{
+    color: yellow;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 2px;
+}
+.half-width img{
+    width: 100%;
+}
